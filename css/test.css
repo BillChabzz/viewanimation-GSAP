@@ -8,11 +8,13 @@ body{
     width: 100%;
     overflow: hidden
 }
-/*header{
-    background-color: #200;
-    color: #fff;
+header{
+    background-color: burlywood;
+     z-index: 20;
+    position: relative;
     width: 100%;
-}*/
+}
+
 .close{
     cursor: pointer;
     padding: 0 1%;
